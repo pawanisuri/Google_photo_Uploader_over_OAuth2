@@ -1,0 +1,32 @@
+
+.description {
+  margin-bottom: 60px;
+}
+
+#album-header {
+  margin-bottom: 36px;
+}
+
+#album-header h3 {
+  text-transform: capitalize;
+  display: inline;
+}
+
+#album-header .mdl-button {
+  margin-left: 20px;
+  vertical-align: center;
+}
+
+#media-uploads {
+  width: 0.1px;
+  height: 0.1px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  z-index: -1;
+}
+
+#add-btn {
+  visibility: hidden;
+}
+
